@@ -1,0 +1,15 @@
+#smallscreenMsg {
+	display: block !important;
+}
+
+#message {
+	margin-left: -50px !important;
+}
+
+#CSStransforms {
+	margin-left: -35px !important;
+}
+
+#widescreenMsg {
+	display: none !important;
+}
